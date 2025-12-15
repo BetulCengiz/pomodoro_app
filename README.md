@@ -19,12 +19,21 @@ Bu kontrol paneli, üretkenlik döngünüzü yönetmek için ihtiyacınız olan 
 
 Uygulamanın arayüzü ve temel işlevleri hakkında fikir edinmek için aşağıdaki görsellere göz atın.
 
-### 1\. Ana Kontrol Paneli ve Odaklanma Arayüzü
+<div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 20px;">
+    
+    <div style="width: 50%; text-align: center;">
+        <img src="Macbook.png" alt="Pomodoro Focus Uygulamasının Ana Ekranı" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+         <img src="iPhone.png" alt="Pomodoro Focus Uygulamasının Ana Ekranı" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+        <p style="font-size: 14px; font-weight: 600; margin-top: 10px;">Odaklanma Zamanlayıcısı ve Görev Yönetimi</p>
+    </div>
+    
+    
 
-Kontrol panelinin genel düzeni, Timer ve Görev Listesi'nin görünümü.
+</div>
 
------
+***
 
+## ⚙️ Teknolojiler
 ![](public/Macbook.png)
 
 ![](public/iPhone.png)
