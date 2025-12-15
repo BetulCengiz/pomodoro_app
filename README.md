@@ -25,11 +25,9 @@ Kontrol panelinin genel düzeni, Timer ve Görev Listesi'nin görünümü.
 
 -----
 
-![](public/Macbook.png) 
+![](public/Macbook.png)
 
-### 2\. Tema ve Sıvı Etkileşimi
-
-Farklı renk temalarının nasıl göründüğünü ve arkaplanınızdaki akışkan (`LiquidEther`) efektinin etkileşimini gösteren bir görünüm.
+![](public/iPhone.png)
 
 -----
 
