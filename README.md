@@ -23,11 +23,10 @@ Uygulamanın arayüzü ve temel işlevleri hakkında fikir edinmek için aşağ�
 ### 1\. Ana Kontrol Paneli ve Odaklanma Arayüzü
 
 Kontrol panelinin genel düzeni, Timer ve Görev Listesi'nin görünümü.
-![](public/Macbook.png) [](public/iPhone.png)
+
+![](public/Macbook.png) 
 
 -----
-
-*(Görseli buraya yerleştirmek için `public/theme-interaction.png` dosyasını kullanın.)*
 
 ## ⚙️ Teknolojiler
 
