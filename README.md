@@ -25,7 +25,7 @@ Kontrol panelinin genel düzeni, Timer ve Görev Listesi'nin görünümü.
 
 -----
 
-*(Görseli buraya yerleştirmek için `public/Macbook.png` dosyasını kullanın.)*
+![](public/Macbook.png) 
 
 ### 2\. Tema ve Sıvı Etkileşimi
 
