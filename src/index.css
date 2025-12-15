@@ -14,7 +14,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap; 
-  src: url('src/assets/fonts/SplineSans-300.woff2') format('woff2'); 
+  src: url('public/fonts/SplineSans-300.woff2') format('woff2'); 
 }
 
 /* Regular Ağırlık (400) */
@@ -23,7 +23,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap; 
-  src: url('src/assets/fonts/SplineSans-400.woff2') format('woff2'); 
+  src: url('public/fonts/SplineSans-400.woff2') format('woff2'); 
 }
 
 /* NOT: Diğer (500, 600, 700) ağırlıklarını kaldırın. */
@@ -33,7 +33,7 @@
     font-weight: 100 700;
     font-display: swap;
     /* ÖNEMLİ DEĞİŞİKLİK: Font yolunu kendi klasörünüze işaret ettik. */
-    src: url('src/assets/fonts/MaterialSymbolsOutlined.woff2') format('woff2');
+    src: url('public/fonts/MaterialSymbolsOutlined.woff2') format('woff2');
 }
 
 /* Material Symbols Stil Sınıfı (Bu kısım aynı kalabilir) */
